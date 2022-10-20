@@ -1,4 +1,4 @@
-﻿namespace ZekatHesapla
+﻿namespace zekat_hesaplama
 {
     partial class Form1
     {
